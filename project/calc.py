@@ -6,7 +6,7 @@ def fact(n):
         result *= i
     return result
 
-def gct(a, b):
+def gcd(a, b):
     result = 0
 
     if a < 0:
