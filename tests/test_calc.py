@@ -26,3 +26,4 @@ class TestTarget(unittest.TestCase):
         self.assertEqual(gcd(5, 0), 5)
         self.assertEqual(gcd(0, 7), 7)
         self.assertEqual(gcd(0, 0), 0)
+        

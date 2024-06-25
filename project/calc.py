@@ -26,7 +26,4 @@ def gcd(a, b):
         m=b%i
         if n == 0 and m == 0:
             result = i
-
-
-    
     return result
